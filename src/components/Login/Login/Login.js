@@ -93,7 +93,7 @@ const Login = () => {
           </form>
           <div className="firebase-btn">
             <button onClick={handleGoogleSignIn} className="btn google-btn">
-              Sign-In with Google
+              Sign In with Google
             </button>
           </div>
         </div>
